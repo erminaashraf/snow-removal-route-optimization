@@ -35,7 +35,7 @@ This project requires Gurobi and an academic license.
 1. Install dependencies:
 ```bash
 pip install gurobipy pandas numpy matplotlib
-
+```
 2. Open the notebook:
    jupyter notebook
 
