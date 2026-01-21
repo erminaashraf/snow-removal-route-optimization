@@ -1,4 +1,5 @@
 # Snow Removal Route Optimization
+Academic project developed as part of a university optimization/analytics course, "Foundations of Decision Analytics" (Fall 2025).
 
 Optimization model for municipal snow removal routing in Chomedey, Laval using Python and Gurobi (Mixed-Integer Programming).
 
